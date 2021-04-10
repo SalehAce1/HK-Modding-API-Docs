@@ -24,6 +24,7 @@ This is the documentation on Hollow Knights modding API.
    SFCore
    Assets
    EditScene
+   NewScene
    Layers-And-Tags
    IL
    Reflection
