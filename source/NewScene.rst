@@ -28,6 +28,7 @@ What you will need
 ^^^^^^^^^^^^^^^^^^
 * `Unity version 2017.4.10f <https://unity3d.com/get-unity/download/archive>`_
 * Modding API
+* `The latest release of SFCoreUnity.dll <https://github.com/SFGrenade/SFCore/releases/latest>`_
 * C# IDE (Visual Studio or JetBrain Rider, this guide is written with Visual Studio as an IDE)
 
 And now, here are the steps to create custom Hollow Knight scenes. 
